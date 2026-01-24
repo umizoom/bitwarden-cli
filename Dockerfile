@@ -1,6 +1,5 @@
 FROM debian:sid
 
-
 ARG BW_CLI_VERSION=2025.12.1
 
 RUN apt update && \
