@@ -1,6 +1,6 @@
 FROM debian:sid
 
-ARG BW_CLI_VERSION=2026.2.0
+ARG BW_CLI_VERSION=2026.9.1
 
 
 RUN apt update && \
